@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">class 11.12</string>
+    <string name="write_info">Введите данные</string>
+    <string name="btn_write_info">Записать данные</string>
+    <string name="btn_read_info">Прочитать данные</string>
+</resources>
